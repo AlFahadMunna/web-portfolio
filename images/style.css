@@ -1,6 +1,7 @@
 body {
     margin: 0px;
     font-family: 'poppins', sans-serif;
+    text-transform: capitalize;
 }
 
 h1 {
